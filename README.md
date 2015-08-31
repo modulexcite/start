@@ -25,3 +25,8 @@ Go show /u/hottemper some love for his work on this.
 2. edit index.pixel.html and change the line: img src="2.png" id="bg" alt=""
 3. edit 2.png to be the name of the picture you want to use.
 
+
+Todo:
+- make a lot of default profiles in the code that you can select.
+- differnt backrounds / submissons for good bg
+- fix stupid broken links?
